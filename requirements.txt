@@ -37,7 +37,7 @@ orderedmultidict==1.0.1
 packaging==20.4
 pandas==1.1.0
 pandocfilters==1.4.2
-Pillow==7.2.0
+Pillow==8.1.1
 plotly==4.9.0
 pyarrow==0.17.1
 Pygments==2.7.4
@@ -106,7 +106,7 @@ orderedmultidict==1.0.1
 packaging==20.4
 pandas==1.1.0
 pandocfilters==1.4.2
-Pillow==7.2.0
+Pillow==8.1.1
 plotly==4.9.0
 pyarrow==0.17.1
 Pygments==2.7.4
@@ -189,7 +189,7 @@ orderedmultidict==1.0.1
 packaging==20.4
 pandas==1.1.0
 pandocfilters==1.4.2
-Pillow==7.2.0
+Pillow==8.1.1
 plac==1.1.3
 plotly==4.9.0
 pluggy==0.13.1
@@ -306,7 +306,7 @@ parso==0.7.1
 pexpect==4.8.0
 phik==0.10.0
 pickleshare==0.7.5
-Pillow==7.2.0
+Pillow==8.1.1
 plac==1.1.3
 plotly==4.9.0
 pluggy==0.13.1
